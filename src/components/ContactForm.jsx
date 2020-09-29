@@ -26,7 +26,7 @@ export default function ContactForm() {
   return (
     <div className='container'>
       <h1 className='brand'>
-        <span>Acme</span> Web Design
+        <span>Emailing</span> Contact Form
       </h1>
       <div className='wrapper animated bounceInLeft'>
         <div className='company-info'>
